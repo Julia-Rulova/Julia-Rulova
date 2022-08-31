@@ -9,7 +9,7 @@
 ### Связь со мной🔗
 * [Telegram](https://t.me/julik_r)
 * [GitHub](https://github.com/Julia-Rulova)
-* Gmail julia.rulova0066@gmail.com
+* [Gmail](julia.rulova0066@gmail.com)
 ### Немного статистики📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
